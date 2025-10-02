@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel John-Maxwell
+# Hey There! I'm Samuel John-Maxwell
 
 🎓 Business & Economics Graduate | 📊 Data & BI Analyst | 🔍 Process Optimizer  
 📍 Based in Canada | Currently completing PL-300 | Open to full-time roles in analytics, process excellence & strategy.  
