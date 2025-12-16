@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
-- <b>Power BI</b>
+- <b>SQL (Structured Query Language)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- <b>SQL (Structured Query Language)</b>
+- <b>Power BI </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 
 - <b>Python</b>
