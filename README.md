@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
 - <b>SQL (Structured Query Language)</b>
-  - [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning)
+  - [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
 
 - <b>Power BI </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
