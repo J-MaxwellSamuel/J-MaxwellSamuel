@@ -6,7 +6,7 @@
   - [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
 
 - <b>Power BI </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Business Safety Review Dashboard (Proof of Knowledge)](https://github.com/joshmadakor1/EncrypterPOC)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
