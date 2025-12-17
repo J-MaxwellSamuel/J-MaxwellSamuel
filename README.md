@@ -3,8 +3,8 @@
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
 - <b>SQL (Structured Query Language) + Power BI</b>
-  [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
-  [Inflation, Unemployment & Household Debt](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
+  - [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
+  - [Inflation, Unemployment & Household Debt](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
 
 - <b>Excel + Power BI </b> [Quick Business Safety Review Dashboard (Proof of Knowledge)](https://github.com/J-MaxwellSamuel/Business-Safety-Review-Dashboard-Proof-of-Knowledge-)
 
