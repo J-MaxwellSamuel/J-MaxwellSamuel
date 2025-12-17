@@ -13,7 +13,8 @@
 
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Data Analytics Certification](https://www.credly.com/badges/ba1620e6-18bc-4bad-aeaa-e513f3d20917/public_url)
+- [Fundamentals of Predictive Project Management](https://www.credly.com/badges/03708816-6d28-4bcb-98eb-ddef0f5c9c27/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
