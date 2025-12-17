@@ -6,9 +6,11 @@
   - [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
   - [Inflation, Unemployment & Household Debt](https://github.com/J-MaxwellSamuel/Inflation-Unemployment-Household-Trends)
 
-- <b>Excel + Power BI </b> [Quick Business Safety Review Dashboard (Proof of Knowledge)](https://github.com/J-MaxwellSamuel/Business-Safety-Review-Dashboard-Proof-of-Knowledge-)
+- <b>Excel + Power BI </b>
+  - [Quick Business Safety Review Dashboard (Proof of Knowledge)](https://github.com/J-MaxwellSamuel/Business-Safety-Review-Dashboard-Proof-of-Knowledge-)
 
-- <b>Python</b> [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Python</b>
+  - [TBC](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Certifications</h2>
 
