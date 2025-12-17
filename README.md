@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
-- <b>SQL (Structured Query Language)</b>
+- <b>SQL (Structured Query Language) + Power BI</b>
   - [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
 
 - <b>Power BI </b>
