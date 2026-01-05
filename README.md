@@ -3,7 +3,6 @@
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
 - <b>SQL (Structured Query Language) + Power BI</b>
-  - [Creating Queries for Production Planning Dashboard](https://github.com/J-MaxwellSamuel/SQL-Demo---Production-Planning-)
   - [ Product-Analytics-for-a-SaaS-Task-Management-Platform](https://github.com/J-MaxwellSamuel/Product-Analytics-for-a-SaaS-Task-Management-Platform)
 
 - <b>Excel + Power BI </b>
