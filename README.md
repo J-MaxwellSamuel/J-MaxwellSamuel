@@ -1,4 +1,4 @@
-<h1><a href = linkedin.com/in/samuel-o-john-maxwell-4a1285195 >Hi there, I'm Sam! Your Problem Solver, Analyst and Business Improvement Professional</a></h1>
+<h1>Hi there, I'm Sam! Your Problem Solver, Analyst and <a href = linkedin.com/in/samuel-o-john-maxwell-4a1285195 >Business Improvement Professional</a></h1>
 
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
